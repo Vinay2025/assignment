@@ -1,2 +1,1 @@
-vinayreddy v patil
-capgemini employee
+capgemini
