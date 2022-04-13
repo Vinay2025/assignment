@@ -1,0 +1,1 @@
+4. Check the git status. You should find index.html as untracked file.
